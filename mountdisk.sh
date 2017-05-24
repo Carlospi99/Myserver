@@ -12,3 +12,4 @@ mount -t ntfs-3g -o uid=1000,gid=1000,umask=007 $drive1 /media/owncloud/
 #3:20 am turn off the hardrive
 #esta es  una prueba
 #3:20 am reboot server.
+#mas que una prueba
